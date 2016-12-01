@@ -41,3 +41,7 @@ Now we're ready to fill in the `update()` method. Where applicable, please make 
 * Update `state` using the `shiftState()` method.
 
 When you're finished, run the `GameWindow.java` program. When running, the board will update 10 times per second. To pause/resume it, press the space bar. To run a single update, press the right arrow. To modify individual cells, just click on them (probably while it's paused) to toggle their state. For more fun, use the items in the Load menu to change the seed state. 
+
+## Picture Lab
+
+Please refer to the `PictureLabStudentGuide.pdf` document for this lab.
