@@ -44,4 +44,4 @@ When you're finished, run the `GameWindow.java` program. When running, the board
 
 ## Picture Lab
 
-Please refer to the `PictureLabStudentGuide.pdf` document for this lab.
+Please download and refer to the [Picture Lab Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-picture-lab-student-guide.pdf) document for this lab.
