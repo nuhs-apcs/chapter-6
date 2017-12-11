@@ -56,7 +56,7 @@ public class Board {
 	}
 	
 	public boolean isInside(int row, int col) {
-		// YOUR CODE HERE
+		// TODO
 		return false;
 	}
 	
@@ -84,11 +84,11 @@ public class Board {
 	}
 	
 	public void update() {
-		// YOUR CODE HERE
+		// TODO
 	}
 	
 	public static int[][] getNeighbors(int row, int col) {
-		// YOUR CODE HERE
+		// TODO
 		return null;
 	}
 	
